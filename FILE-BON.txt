@@ -1,0 +1,86 @@
+galon:10
+gula:10
+kopi:20
+gas:22
+kopi:20
+sanlek:2
+mie ayam:30 114
+
+galon:9
+gula:10
+kopi:20
+galon:10
+gula:10
+kopi:20
+gula:10 89
+
+kopi:20
+gula:10
+sanlek:2 32
+
+235-100
+
+kopi:20
+galon:9
+kopi:20
+gula:10
+kopi:20
+gula:10
+galon:9
+
+kopi:20
+gula:10
+kopi:20
+gula:10
+kopi:20
+gula:10
+kopi:20
+
+gas:22
+kopi:20
+gula:10
+rapiah:20
+kopi:20
+gula:10
+galon:9
+
+kopi:20
+gula:10
+kopi:20
+gula:10
+sanlek:2
+
+
+
+
+
+gas dandung 18
+
+
+gas Yoko 25+25+25
+
+
+
+
+
+
+
+
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enable: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+    
+    
