@@ -1,54 +1,13 @@
-galon:10
+kopi:20
+kopi:20
 gula:10
 kopi:20
-gas:22
-kopi:20
+galon:9
 sanlek:2
-mie ayam:30 114
-
-galon:9
 gula:10
-kopi:20
-galon:10
-gula:10
-kopi:20
-gula:10 89
 
 kopi:20
-gula:10
-sanlek:2 32
-
-235-100
-
 kopi:20
-galon:9
-kopi:20
-gula:10
-kopi:20
-gula:10
-galon:9
-
-kopi:20
-gula:10
-kopi:20
-gula:10
-kopi:20
-gula:10
-kopi:20
-
-gas:22
-kopi:20
-gula:10
-rapiah:20
-kopi:20
-gula:10
-galon:9
-
-kopi:20
-gula:10
-kopi:20
-gula:10
-sanlek:2
 
 
 
